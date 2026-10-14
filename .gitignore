@@ -1,0 +1,43 @@
+# ===== 操作系统 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 编辑器 / IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ===== Node.js =====
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ===== 构建产物 =====
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.class
+
+# ===== 日志 =====
+*.log
+
+# ===== 本地配置 / 密钥 =====
+.env
+.env.*
+*.key
+*.pem
+*.token
